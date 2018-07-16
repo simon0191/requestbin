@@ -7,7 +7,7 @@
   "keywords": ["python"],
   "env": {
     "REALM": {
-      "description": "The number of processes to run.",
+      "description": "The deployment environment. Use 'prod' for production deployments.",
       "value": "prod"
     }
   },
